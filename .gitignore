@@ -118,7 +118,7 @@ uwsgi_params.conf
 dpl/
 
 # settings
-*/settings.py
+src/settings/default.py
 
 # migrations
 migrations/
